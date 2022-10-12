@@ -43,5 +43,5 @@ int main() {
 	cin >> s;
 	float degrees = 360.00/12.00*k+(30.00/60.00*m)+(30.00/60.00/60.00*s);
 	cout << degrees;
-	retun 0;*/
+	retun 0;*/	
 }
