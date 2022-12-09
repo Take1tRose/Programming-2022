@@ -45,6 +45,7 @@ int main()
 	}
 	string result = isSpadna ? "Spadna" : "Ne spadna";
 	cout << result;*/
+	
 	int size;
 	cout << "Input numbers amount:" << endl;
 	cin >> size;
@@ -61,4 +62,21 @@ int main()
 		}
 	}
 	cout << "Min number = " << min[0] << "; Index: " << min[1] << endl;
+
+	/*int size;
+	cout << "Input numbers amount:" << endl;
+	cin >> size;
+	int* array = new int[size];
+	for (int i = 0; i < size; i++) {
+		cout << "Input x" << i << endl;
+		cin >> array[i];
+	}
+	int minIndex = 0;
+	for (int i = 0; i < size; i++) {
+		if (array[i] < array[minIndex]) {
+			minIndex = i;
+		}
+	}
+
+	cout << "Min number = " << array[minIndex] << "; Index: " << minIndex << endl;*/
 }
