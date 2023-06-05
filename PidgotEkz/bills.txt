@@ -1,0 +1,3 @@
+Drink name: coffee; Price: 80.25
+Drink name: tea; Price: 70
+Drink name: coffee; Price: 65.25

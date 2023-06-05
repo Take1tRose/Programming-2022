@@ -1,0 +1,6 @@
+coffee, hot, milk, sugar
+coffee, hot, chocolate, milk
+coffee, iced, milk, chocolate
+tea, iced, sugar, milk
+coffee, hot, sugar, chocolate
+tea, hot, milk, milk
